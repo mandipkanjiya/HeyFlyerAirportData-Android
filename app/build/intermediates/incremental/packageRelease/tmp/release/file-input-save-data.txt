@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Nov 16 17:57:49 IST 2019
+0.baseType=DIRECTORY
+0.base=G\:\\Projects\\HeyFlyerExampleSDK\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

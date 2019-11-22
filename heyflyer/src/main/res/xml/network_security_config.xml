@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+   <domain includeSubdomains="true">ec2-52-58-123-201.eu-central-1.compute.amazonaws.com</domain>
+    <!--    <domain includeSubdomains="true">mashatel.me</domain>-->
+    </domain-config>
+</network-security-config>

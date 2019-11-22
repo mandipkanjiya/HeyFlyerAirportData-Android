@@ -1,0 +1,4 @@
+#Sat Nov 16 17:57:49 IST 2019
+base.0=G\:\\Projects\\HeyFlyerExampleSDK\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

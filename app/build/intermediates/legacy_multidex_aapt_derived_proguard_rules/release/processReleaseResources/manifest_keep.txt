@@ -1,0 +1,4 @@
+# Referenced at G:\Projects\HeyFlyerExampleSDK\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:11
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
+# Referenced at G:\Projects\HeyFlyerExampleSDK\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:11
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
